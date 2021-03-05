@@ -3,6 +3,7 @@
 </div>
 
 # Developer Tools for #BlackLivesMatter
+Found this on Friday, March 5...
 A running list of developer tools companies supporting #BlackLivesMatter. For more info on ways you can help visit https://blacklivesmatters.carrd.co/.
 
 Listing Order: alphabetical, with the companies matching donations first, companies donating second, followed by companies who have made a public statement (via Twitter).
